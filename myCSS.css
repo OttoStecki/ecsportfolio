@@ -3,6 +3,7 @@
 body {
 	margin: 0 auto;
 	font:100%/1.4 American Typewriter, serif;
+	color: #390101
 }
 .homePage {
 	background: #A30116;
@@ -38,6 +39,8 @@ body {
 	text-align: center;
 }
 .footer {
+	font:100%/1.4 American Typewriter, serif;
+	color: #390101 
 	background: #FF7A01;
 	margin: 0px;
 	float: left;
